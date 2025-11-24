@@ -2,3 +2,6 @@
 
 ### 실제 결과(텍스트 그대로)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&theme=radical)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=test&layout=compact)
