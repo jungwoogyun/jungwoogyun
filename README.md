@@ -1,14 +1,13 @@
-<!-- 프로필 이미지 -->
-<div align="center">
-  <img src="./assets/profile.png" width="180px" alt="Profile" />
-</div>
-
-<br/>
-
-<!-- 1. 방문자 수 -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jungwoogyun.jungwoogyun&left_color=3d2817&right_color=D2691E&left_text=visitors" />
-</div>
+<!-- 프로필 이미지 + 방문자 수 (왼쪽 배치) -->
+<table width="100%" border="0">
+  <tr>
+    <td align="left" valign="middle">
+      <img src="./assets/profile.png" width="120px" alt="Profile" />
+      <br/>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=jungwoogyun.jungwoogyun&left_color=3d2817&right_color=D2691E&left_text=visitors" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -16,11 +15,11 @@
 <table width="100%" border="0">
   <tr>
     <td width="38%" align="left" valign="middle">
-      <img width="260px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=4" alt="Trophy" />
+      <img width="200px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=4" alt="Trophy" />
     </td>
     <td width="62%" align="center" valign="middle">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&pause=1000&color=D2691E&center=true&vCenter=true&width=500&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=D2691E&center=true&vCenter=true&width=400&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
       </a>
     </td>
   </tr>
