@@ -17,9 +17,15 @@ jobs:
         id: snake-gif
         with:
           github_user_name: jungwoogyun
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=D2691E
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      
+      - name: Generate dark snake
+        uses: Platane/snk@master
+        id: snake-gif-dark
+        with:
+          github_user_name: jungwoogyun
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          args: --color-snake D2691E
       
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
