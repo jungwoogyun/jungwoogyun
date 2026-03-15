@@ -21,13 +21,6 @@ jobs:
           github_user_name: jungwoogyun
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Generate dark snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: jungwoogyun
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          args: --color-snake D2691E
-
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:

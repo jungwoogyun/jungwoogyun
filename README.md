@@ -19,7 +19,11 @@
 ## 자기소개
 
 ```text
--
+백엔드 개발자
+Java / Spring 을 주로 사용합니다
+Docker, AWS 기반 클라우드 환경에 관심이 많습니다
+항상 성장하는 중입니다
+Contact: your-email@email.com
 ```
 
 ---
@@ -90,16 +94,10 @@
 
 ---
 
----
-
 ## 뱀 커밋 애니메이션
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" alt="github-snake" />
 </div>
 
 > 뱀 애니메이션은 GitHub Actions 설정이 필요합니다.
@@ -113,21 +111,27 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate snake
+        uses: Platane/snk@master
         with:
           github_user_name: jungwoogyun
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.svg?color_snake=D2691E
-      - uses: crazy-max/ghaction-github-pages@v3
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true
 ```
