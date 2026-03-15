@@ -41,7 +41,7 @@
 
 <!-- 4. 활동 그래프 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jungwoogyun&theme=radical&hide_border=true&area=true&color=D2691E&bg_color=1a1a1a&line=CD853F&point=D2691E" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jungwoogyun&hide_border=true&area=true&color=0066CC&bg_color=ffffff&line=0066CC&point=0066CC&title_color=0066CC" />
 </div>
 
 <br/>
@@ -50,9 +50,9 @@
 ## GitHub 통계
 
 <div align="center">
-  <img height="150px" width="290px" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&theme=radical&title_color=D2691E&text_color=CD853F&icon_color=D2691E&bg_color=1a1a1a&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="150px" width="290px" src="https://streak-stats.demolab.com?user=jungwoogyun&theme=radical&hide_border=true&locale=ko&ring=D2691E&fire=D2691E&currStreakLabel=D2691E" />
-  <img height="150px" width="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&theme=radical&title_color=D2691E&text_color=CD853F&bg_color=1a1a1a&hide_border=true" />
+  <img height="150px" width="290px" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&title_color=0066CC&text_color=333333&icon_color=0066CC&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="150px" width="290px" src="https://streak-stats.demolab.com?user=jungwoogyun&hide_border=true&locale=ko&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&background=ffffff&dates=333333&sideLabels=333333&currStreakNum=333333" />
+  <img height="150px" width="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&title_color=0066CC&text_color=333333&bg_color=ffffff&hide_border=true" />
 </div>
 
 <br/>
