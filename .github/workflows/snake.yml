@@ -12,6 +12,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Create dist directory
+        run: mkdir -p dist
+      
       - name: Generate snake
         uses: Platane/snk@master
         id: snake-gif
