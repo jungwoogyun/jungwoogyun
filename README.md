@@ -19,10 +19,7 @@
 ## 자기소개
 
 ```text
-백엔드 개발자
-Java / Spring 을 주로 사용합니다
-Docker, AWS 기반 클라우드 환경에 관심이 많습니다
-항상 성장하는 중입니다
+-
 ```
 
 ---
@@ -80,7 +77,7 @@ Docker, AWS 기반 클라우드 환경에 관심이 많습니다
 ## 트로피
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy" />
 </div>
 
 ---
@@ -99,9 +96,9 @@ Docker, AWS 기반 클라우드 환경에 관심이 많습니다
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
