@@ -63,7 +63,7 @@ Docker, AWS 기반 클라우드 환경에 관심이 많습니다
 
 ## GitHub 통계
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&theme=radical&title_color=D2691E&text_color=CD853F&icon_color=D2691E&bg_color=1a1a1a&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&theme=radical&title_color=D2691E&text_color=CD853F&bg_color=1a1a1a&hide_border=true" />
 </div>
