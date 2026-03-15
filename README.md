@@ -1,7 +1,7 @@
 <!-- 타이핑 애니메이션 헤더 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=D2691E&center=true&vCenter=true&width=800&lines=%EB%82%B4%EC%9D%BC+%ED%95%98%EA%B2%A0%EB%8B%A4%EB%8A%94+%EB%A7%90%EC%9D%80+%ED%95%98%EC%A7%80%EC%95%8A%EA%B2%A0%EB%8B%A4%EB%8A%94+%EB%A7%90%EC%9D%B4%EB%8B%A4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&pause=1000&color=D2691E&center=true&vCenter=true&width=800&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,15 +18,30 @@
 
 <br/>
 
-<!-- 트로피 -->
+## GitHub 통계
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy" />
+  <img height="150px" width="290px" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&theme=radical&title_color=D2691E&text_color=CD853F&icon_color=D2691E&bg_color=1a1a1a&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="150px" width="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&theme=radical&title_color=D2691E&text_color=CD853F&bg_color=1a1a1a&hide_border=true" />
+  <img height="150px" width="290px" src="https://streak-stats.demolab.com?user=jungwoogyun&theme=radical&hide_border=true&locale=ko&ring=D2691E&fire=D2691E&currStreakLabel=D2691E" />
 </div>
 
 <br/>
 
-<!-- 방문자 수 -->
+## 활동 그래프
+
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jungwoogyun&theme=radical&hide_border=true&area=true&color=D2691E&bg_color=1a1a1a&line=CD853F&point=D2691E" />
+</div>
+
+<br/>
+
+---
+
+<!-- 트로피 + 방문자 수 -->
+<div align="left">
+  <img width="280px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=4" alt="Trophy" />
+  <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jungwoogyun.jungwoogyun&left_color=3d2817&right_color=D2691E&left_text=visitors" />
 </div>
 
@@ -77,29 +92,5 @@ Contact: jwg8910@naver.com
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
----
-
-## GitHub 통계
-
-<div align="left">
-  <img height="165px" width="400px" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&theme=radical&title_color=D2691E&text_color=CD853F&icon_color=D2691E&bg_color=1a1a1a&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&theme=radical&title_color=D2691E&text_color=CD853F&bg_color=1a1a1a&hide_border=true" />
-</div>
-
-<br/>
-
-<!-- 연속 커밋 스트릭 -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jungwoogyun&theme=radical&hide_border=true&locale=ko&ring=D2691E&fire=D2691E&currStreakLabel=D2691E" />
-</div>
-
----
-
-## 활동 그래프
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jungwoogyun&theme=radical&hide_border=true&area=true&color=D2691E&bg_color=1a1a1a&line=CD853F&point=D2691E" />
-</div>
 
 > 뱀 애니메이션은 GitHub Actions를 통해 자동으로 생성됩니다.
