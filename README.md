@@ -1,28 +1,23 @@
-<!-- 방문자 수 + 트로피 (제일 위 왼쪽) -->
+<!-- 트로피 + 방문자 수 (트로피 먼저, visitor 오른쪽) -->
 <table width="100%" border="0">
   <tr>
     <td align="left" valign="middle">
+      <img width="280px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=4" alt="Trophy" />
+    </td>
+    <td align="right" valign="middle">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=jungwoogyun.jungwoogyun&left_color=3d2817&right_color=D2691E&left_text=visitors" />
-      <img width="240px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=4" alt="Trophy" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- 프로필 이미지 + 타이핑 문구 (같은 행) -->
-<table width="100%" border="0">
-  <tr>
-    <td width="20%" align="left" valign="middle">
-      <img src="./assets/avatar.png" width="120px" alt="Profile" />
-    </td>
-    <td width="80%" align="center" valign="middle">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=D2691E&center=true&vCenter=true&width=700&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- 타이핑 문구 (한 행에 표시) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&color=D2691E&center=true&vCenter=true&width=900&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
@@ -48,8 +43,8 @@
 ## GitHub 통계
 
 <div align="center">
-  <img height="150px" width="290px" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&title_color=0066CC&text_color=333333&icon_color=0066CC&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="150px" width="290px" src="https://streak-stats.demolab.com?user=jungwoogyun&hide_border=true&locale=ko&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&background=ffffff&dates=333333&sideLabels=333333&currStreakNum=333333" />
+  <img height="150px" width="280px" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&title_color=0066CC&text_color=333333&icon_color=0066CC&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="150px" width="340px" src="https://streak-stats.demolab.com?user=jungwoogyun&hide_border=true&locale=ko&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&background=ffffff&dates=333333&sideLabels=333333&currStreakNum=333333" />
   <img height="150px" width="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&title_color=0066CC&text_color=333333&bg_color=ffffff&hide_border=true" />
 </div>
 
