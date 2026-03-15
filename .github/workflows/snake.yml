@@ -12,14 +12,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Create dist directory
-        run: mkdir -p dist
-
       - name: Generate snake
-        uses: Platane/snk@master
+        uses: Platane/snk/gh-action@v3
         with:
           github_user_name: jungwoogyun
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
