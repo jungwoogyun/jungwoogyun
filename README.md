@@ -6,7 +6,7 @@
     </td>
     <td width="80%" align="center" valign="middle">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=D2691E&center=true&vCenter=true&width=700&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=D2691E&center=true&vCenter=true&width=700&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
       </a>
     </td>
   </tr>
@@ -21,7 +21,7 @@
       <img src="https://visitor-badge.laobi.icu/badge?page_id=jungwoogyun.jungwoogyun&left_color=3d2817&right_color=D2691E&left_text=visitors" />
     </td>
     <td width="70%" align="left" valign="middle">
-      <img width="200px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=4" alt="Trophy" />
+      <img width="240px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=4" alt="Trophy" />
     </td>
   </tr>
 </table>
