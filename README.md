@@ -104,38 +104,4 @@ Contact: your-email@email.com
   </picture>
 </div>
 
-> 뱀 애니메이션은 GitHub Actions 설정이 필요합니다.
-> 아래 파일을 `.github/workflows/snake.yml` 에 추가해 주세요.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      - name: Generate snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: jungwoogyun
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
-          force_orphan: true
-```
+> 뱀 애니메이션은 GitHub Actions를 통해 자동으로 생성됩니다.
