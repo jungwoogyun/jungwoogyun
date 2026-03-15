@@ -1,8 +1,26 @@
 <!-- 타이핑 애니메이션 헤더 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=D2691E&center=true&vCenter=true&width=800&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.+-+John+Johnson" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=D2691E&center=true&vCenter=true&width=800&lines=%EB%82%B4%EC%9D%BC+%ED%95%98%EA%B2%A0%EB%8B%A4%EB%8A%94+%EB%A7%90%EC%9D%80+%ED%95%98%EC%A7%80%EC%95%8A%EA%B2%A0%EB%8B%A4%EB%8A%94+%EB%A7%90%EC%9D%B4%EB%8B%A4" alt="Typing SVG" />
   </a>
+</div>
+
+<br/>
+
+<!-- 뱀 커밋 애니메이션 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- 트로피 -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy" />
 </div>
 
 <br/>
@@ -23,7 +41,7 @@
 Java / Spring 을 주로 사용합니다
 Docker, AWS 기반 클라우드 환경에 관심이 많습니다
 항상 성장하는 중입니다
-Contact: your-email@email.com
+Contact: jwg8910@naver.com
 ```
 
 ---
@@ -78,30 +96,10 @@ Contact: your-email@email.com
 
 ---
 
-## 트로피
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy" />
-</div>
-
----
-
 ## 활동 그래프
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jungwoogyun&theme=radical&hide_border=true&area=true&color=D2691E&bg_color=1a1a1a&line=CD853F&point=D2691E" />
-</div>
-
----
-
-## 뱀 커밋 애니메이션
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 > 뱀 애니메이션은 GitHub Actions를 통해 자동으로 생성됩니다.
