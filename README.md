@@ -1,7 +1,7 @@
 <!-- 타이핑 애니메이션 헤더 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=안녕하세요%2C+jungwoogyun+입니다;백엔드+개발자입니다;항상+성장하는+중입니다" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=안녕하세요%2C+jungwoogyun+입니다;백엔드+개발자입니다;항상+성장하는+중입니다" alt="Typing SVG" />
   </a>
 </div>
 
@@ -64,8 +64,8 @@ Docker, AWS 기반 클라우드 환경에 관심이 많습니다
 ## GitHub 통계
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&theme=radical&title_color=D2691E&text_color=CD853F&icon_color=D2691E&bg_color=1a1a1a&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&theme=radical&title_color=D2691E&text_color=CD853F&bg_color=1a1a1a&hide_border=true" />
+  <img height="165px" width="400px" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&theme=radical&title_color=D2691E&text_color=CD853F&icon_color=D2691E&bg_color=1a1a1a&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&theme=radical&title_color=D2691E&text_color=CD853F&bg_color=1a1a1a&hide_border=true" />
 </div>
 
 <br/>
@@ -80,7 +80,7 @@ Docker, AWS 기반 클라우드 환경에 관심이 많습니다
 ## 트로피
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&title_color=D2691E&text_color=CD853F" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
