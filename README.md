@@ -154,7 +154,3 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-> 뱀 애니메이션은 GitHub Actions를 통해 자동으로 생성됩니다.
-=======
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
->>>>>>> 1415ce26e7f18a62c5350db9c84b9ee9804d0c67
