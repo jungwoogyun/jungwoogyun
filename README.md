@@ -97,7 +97,11 @@ Contact: your-email@email.com
 ## 뱀 커밋 애니메이션
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jungwoogyun/jungwoogyun/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 > 뱀 애니메이션은 GitHub Actions 설정이 필요합니다.
