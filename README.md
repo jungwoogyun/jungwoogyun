@@ -58,11 +58,7 @@
 ## 자기소개
 
 ```text
-백엔드 개발자
-Java / Spring 을 주로 사용합니다
-Docker, AWS 기반 클라우드 환경에 관심이 많습니다
-항상 성장하는 중입니다
-Contact: jwg8910@naver.com
+-
 ```
 
 ---
@@ -98,5 +94,3 @@ Contact: jwg8910@naver.com
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
-> 뱀 애니메이션은 GitHub Actions를 통해 자동으로 생성됩니다.
