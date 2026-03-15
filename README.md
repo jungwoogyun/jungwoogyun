@@ -2,7 +2,7 @@
 <table width="100%" border="0">
   <tr>
     <td align="left" valign="middle">
-      <img width="280px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=2&row=1&column=4" alt="Trophy" />
+      <img width="320px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=0&row=1&column=4" alt="Trophy" />
     </td>
     <td align="right" valign="middle">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=jungwoogyun.jungwoogyun&left_color=3d2817&right_color=D2691E&left_text=visitors" />
@@ -12,10 +12,10 @@
 
 <br/>
 
-<!-- 타이핑 문구 (한 행에 표시) -->
-<div align="center">
+<!-- 타이핑 문구 (왼쪽 정렬) -->
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=D2691E&center=true&vCenter=true&width=1000&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=000000&center=false&vCenter=true&width=1000&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
   </a>
 </div>
 
@@ -39,13 +39,16 @@
 
 <br/>
 
-<!-- 5. GitHub 통계 (커밋통계 | 스트릭 | 언어 순 - 언어는 맨 끝) -->
+<!-- 5. GitHub 통계 -->
 ## GitHub 통계
 
-<div align="center">
-  <img height="150px" width="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&title_color=0066CC&text_color=333333&bg_color=ffffff&hide_border=true" />
+<div align="left">
+  <!-- 1행: GitHub Stats + GitHub 기여 -->
   <img height="150px" width="280px" src="https://github-readme-stats.vercel.app/api?username=jungwoogyun&show_icons=true&title_color=0066CC&text_color=333333&icon_color=0066CC&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="150px" width="340px" src="https://streak-stats.demolab.com?user=jungwoogyun&hide_border=true&locale=ko&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&background=ffffff&dates=333333&sideLabels=333333&currStreakNum=333333" />
+  <br/>
+  <!-- 2행: Most Used Languages -->
+  <img height="150px" width="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoogyun&layout=compact&title_color=0066CC&text_color=333333&bg_color=ffffff&hide_border=true" />
 </div>
 
 <br/>
