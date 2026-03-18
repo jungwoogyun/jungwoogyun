@@ -1,15 +1,14 @@
 <!-- 트로피 + 방문자 수 (트로피 먼저, visitor 오른쪽) -->
-<table width="100%" border="0">
+<table width="100%">
   <tr>
-    <td align="left" valign="middle">
-      <img width="320px" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=0&row=1&column=4" alt="Trophy" />
+    <td align="right">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=jungwoogyun.jungwoogyun&left_color=3d2817&right_color=D2691E&left_text=visitors" alt="Visitors" />
     </td>
-    <td align="right" valign="middle">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=jungwoogyun.jungwoogyun&left_color=3d2817&right_color=D2691E&left_text=visitors" />
+    <td align="left">
+      <img width="320" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=0&row=1&column=4&v=123" alt="Trophy" />
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- 타이핑 문구 (왼쪽 정렬) -->
