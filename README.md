@@ -4,9 +4,6 @@
     <td align="right">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=jungwoogyun.jungwoogyun&left_color=3d2817&right_color=D2691E&left_text=visitors" alt="Visitors" />
     </td>
-    <td align="left">
-      <img width="320" src="https://github-profile-trophy.vercel.app/?username=jungwoogyun&theme=onedark&no-frame=true&no-bg=true&margin-w=0&row=1&column=4&v=123" alt="Trophy" />
-    </td>
   </tr>
 </table>
 <br/>
