@@ -11,7 +11,7 @@
 <!-- 타이핑 문구 (왼쪽 정렬) -->
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=000000&center=false&vCenter=true&width=1000&lines=Saying+you%27ll+do+it+tomorrow+means+you+won%27t+do+it+at+all." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=900&size=28&pause=1000&color=000000&center=false&vCenter=true&width=1000&lines=%EB%82%B4%EC%9D%BC+%ED%95%98%EA%B2%A0%EB%8B%A4%EB%8A%94+%EB%A7%90%EC%9D%80+%EC%95%84%EC%98%88+%ED%95%98%EC%A7%80+%EC%95%8A%EA%B2%A0%EB%8B%A4%EB%8A%94+%EB%A7%90%EC%9D%B4%EB%8B%A4." alt="Typing SVG" />
   </a>
 </div>
 
